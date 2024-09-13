@@ -10,3 +10,7 @@ https://gazebosim.org/home
 https://www.nvidia.com/en-eu/omniverse/usd/
 
 https://github.com/huggingface/lerobot
+
+https://colmap.github.io/
+
+https://www.youtube.com/watch?v=RVMAyyVGAC4
