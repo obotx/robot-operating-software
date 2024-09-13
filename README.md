@@ -16,4 +16,8 @@ https://colmap.github.io/
 Octo & RT-2-X
 https://github.com/openvla/openvla
 
+https://github.com/haosulab/ManiSkill
+
 https://www.youtube.com/watch?v=RVMAyyVGAC4
+
+
